@@ -7,7 +7,12 @@
 2. create virtual environment with `python3 -m venv venv/` 
 3. activate virt env with `source venv/bin/activate`
 4. install packages with pip
+    - Numpy
+    - pygame
+    - pyrr
+    - PyOpenGL
 
 *note to deactivate environment with `deactivate`
 
 ## Task 1
+run with `python task1.py`
